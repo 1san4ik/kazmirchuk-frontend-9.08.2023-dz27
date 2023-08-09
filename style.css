@@ -15,10 +15,6 @@ div {
  margin-top: 10px;
 }
 
-.div-focus {
-    display: block;
-}
-
 .div-blure {
     display: none;
 }

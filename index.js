@@ -8,11 +8,9 @@ inp.insertAdjacentElement('afterend', div)
 
 function divFocus() {
   div.classList.remove('div-blure')
-  div.classList.add('div-focus')
 }
 
 function divBlur() {
-  div.classList.remove('div-focus')
   div.classList.add('div-blure')
 }
 
