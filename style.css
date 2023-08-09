@@ -1,0 +1,20 @@
+input {
+    background-color: burlywood;
+    width: auto;
+    height: 40px;
+}
+input:focus{
+    background-color:rgb(236, 202, 90)
+}
+
+div {
+ background-color:rgb(204, 204, 204);
+ border: 1px solid red;
+ width: 260px;
+ height: 40px;
+ margin-top: 10px;
+}
+
+.div-blure {
+    display: none;
+}
